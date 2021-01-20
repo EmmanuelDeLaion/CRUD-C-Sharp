@@ -1,0 +1,12 @@
+C:\Users\USER\source\repos\Sistema Personas\bin\Debug\Sistema Personas.exe.config
+C:\Users\USER\source\repos\Sistema Personas\bin\Debug\Sistema Personas.exe
+C:\Users\USER\source\repos\Sistema Personas\bin\Debug\Sistema Personas.pdb
+C:\Users\USER\source\repos\Sistema Personas\obj\Debug\Sistema Personas.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\Sistema Personas\obj\Debug\Sistema_Personas.Form1.resources
+C:\Users\USER\source\repos\Sistema Personas\obj\Debug\Sistema_Personas.Properties.Resources.resources
+C:\Users\USER\source\repos\Sistema Personas\obj\Debug\Sistema Personas.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\Sistema Personas\obj\Debug\Sistema Personas.exe
+C:\Users\USER\source\repos\Sistema Personas\obj\Debug\Sistema Personas.pdb
+C:\Users\USER\source\repos\Sistema Personas\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\USER\source\repos\Sistema Personas\obj\Debug\Sistema Personas.csproj.CopyComplete
+C:\Users\USER\source\repos\Sistema Personas\bin\Debug\MySql.Data.dll
